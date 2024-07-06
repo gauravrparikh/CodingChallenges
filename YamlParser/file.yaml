@@ -1,0 +1,7 @@
+name: Coding Challenges
+path: CodingChallenges
+first_challenge: 1
+last_challenge: 
+  name: Yaml Parser
+  author: John Doe
+  difficulty: 2
